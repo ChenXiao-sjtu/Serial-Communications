@@ -1,0 +1,7 @@
+SR,01,001CRLF
+
+参考文档：
+https://wenku.baidu.com/view/7307763d376baf1ffc4fadd4.html
+
+串口存在：
+https://blog.csdn.net/antares_santalen/article/details/52510719
